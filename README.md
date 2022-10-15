@@ -1,4 +1,24 @@
-<!---
-Bildad0/Bildad0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h1 align="center" > Hi, I am Bildad 👋</h1>
+<hr/>
+
+
+I am a software engineering undergrad from Mombasa, Kenya. Currently I am studying in Technical University of Mombasa. I am  passionate about __System Management development__.
+
+<div align="center">
+<br/>
+ <td>
+<tr><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bildad0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></tr>
+<tr><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bildad0&layout=compact&langs_count=7&theme=github_dark"/></tr>
+ <tr><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bildad0&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></tr>
+<td>
+</div>
+
+
+
+## 🔗 Connect with me on :
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/bildad-owuor/)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Bildad0)
+
+<hr/>
