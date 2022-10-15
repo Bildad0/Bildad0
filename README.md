@@ -8,9 +8,9 @@ I am a Bs. Infomation Technology undergrad from Mombasa, Kenya. Currently am stu
 <div align="center">
 <br/>
  <td>
-<tr><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bildad0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></tr>
-<tr><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bildad0&layout=compact&langs_count=7&theme=github_dark"/></tr>
- <tr><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bildad0&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></tr>
+<tr><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bildad0&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/></tr>
+<tr><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bildad0&langs_count=10&layout=compact&langs_count=7&theme=nightowl"/></tr>
+ <tr><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bildad0&show_icons=true&locale=en&layout=compact&theme=nightowl"/></tr>
 <td>
 </div>
 
