@@ -3,7 +3,7 @@
 <hr/>
 
 
-I am a software engineering undergrad from Mombasa, Kenya. Currently I am studying in Technical University of Mombasa. I am  passionate about __System Management development__.
+I am a software engineering undergrad from Mombasa, Kenya. Currently I am studying in Technical University of Mombasa. I am  passionate about  __Software development__.
 
 <div align="center">
 <br/>
