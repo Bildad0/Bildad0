@@ -3,7 +3,7 @@
 <hr/>
 
 
-I am a Bs. Infomation Technology undergrad from Mombasa, Kenya. Currently studying at Technical University of Mombasa and passionate about  __Software development__.
+A Bs. Infomation Technology undergrad from Mombasa, Kenya. Currently studying at Technical University of Mombasa and passionate about  __Software development__.
 
 <div align="center">
 <br/>
