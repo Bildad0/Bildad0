@@ -1,10 +1,3 @@
-
-<h1 align="center" > Hi, I am Bildad 👋</h1>
-<hr/>
-
-
-A Bs. Infomation Technology undergrad from Mombasa, Kenya. Currently studying at Technical University of Mombasa and passionate about  __Software development__.
-
 <div align="center">
 <br/>
  <td>
